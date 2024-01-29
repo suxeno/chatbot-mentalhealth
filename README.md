@@ -16,4 +16,19 @@ This repository contains a simple chatbot program that utilizes TFxIDF (Term Fre
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/chatbot-tfidf-cosine.git
+git clone https://github.com/suxeno/chatbot-mentalhealth.git
+
+2. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+
+## Usage
+
+1. Ensure you have Python installed on your system.
+2. Navigate to the directory where you cloned the repository.
+3. Run the chatbot program:
+
+```bash
+python chatbot.py
+
