@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a simple chatbot program that utilizes TFxIDF (Term Frequency-Inverse Document Frequency) and cosine similarity metrics to match user questions with a provided dataset. The chatbot aims to provide responses based on the closest match found within the dataset.
+This repository contains a simple chatbot program that utilizes TFxIDF (Term Frequency-Inverse Document Frequency) and cosine similarity metrics to match user questions with a provided dataset about mentalhealth question and responses. The chatbot aims to provide responses based on the closest match found within the dataset.
 
 ## Features
 
