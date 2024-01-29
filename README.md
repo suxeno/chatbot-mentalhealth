@@ -17,11 +17,13 @@ This repository contains a simple chatbot program that utilizes TFxIDF (Term Fre
 
 ```bash
 git clone https://github.com/suxeno/chatbot-mentalhealth.git
+```
 
 2. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 
@@ -31,4 +33,4 @@ pip install -r requirements.txt
 
 ```bash
 python chatbot.py
-
+```
